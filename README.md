@@ -233,6 +233,7 @@ A collection of awesome things regarding the React ecosystem.
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 - [baseweb](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework for React with 50+ components featuring material, bootstrap and custom themes.
+- [Headless UI](https://github.com/tailwindlabs/headlessui) - Customizable unstyled UI components built to integrate with Tailwind CSS
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework
 - [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
 - [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
